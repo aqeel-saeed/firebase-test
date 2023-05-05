@@ -9,6 +9,8 @@ and allows users to send and receive messages using Firebase Cloud Messaging.
 To run this project, you will need to have the following software installed on your system:
 - PHP 8.0 or higher
 - Composer
+- MySQL or MariaDB
+- laravel 9.5.2
 - Node.js & npm
 - Firebase Account & project credentials (see Firebase Setup)
 
