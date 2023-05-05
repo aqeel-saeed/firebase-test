@@ -59,7 +59,7 @@ The application should now be running at http://localhost:8000 .
 To use Firebase with this project, you will need to create a Firebase project and obtain the project credentials.
 Here's how:
 
-1. Go to the Firebase Console and create a new project.
+1. Go to the [Firebase Console](https://console.firebase.google.com/) and create a new project.
 2. In the project settings, add a 'Web App', copy your firebaseConfig setting you have got, like this:
 ```
 var firebaseConfig = {
